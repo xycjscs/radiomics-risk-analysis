@@ -1,0 +1,18 @@
+x,,
+1,-0.059523696,S_original_shape_Sphericity
+2,0.042985166, S_original_gldm_SmallDependenceLowGrayLevelEmphasis
+3,0.066179232, S_exponential_firstorder_Minimum
+4,0.010485974, S_wavelet.LHL_firstorder_Median
+5,0.088949707, S_wavelet.LHH_firstorder_Maximum
+6,0.12480344, S_wavelet.HLH_gldm_DependenceVariance
+7,-0.04838831, S_wavelet.HHH_glcm_Imc1
+8,0.023699646, S_wavelet.LLL_firstorder_InterquartileRange
+9,0.11018759, S_wavelet.LLL_ngtdm_Contrast
+10,0.105440428, D_logarithm_glcm_ClusterProminence
+11,-0.127641934, D_square_ngtdm_Contrast
+12,-0.11239051, D_wavelet.HLH_firstorder_Mean
+13,-0.143814109, D_wavelet.HLH_gldm_DependenceNonUniformityNormalized
+14,-0.054204896, D_wavelet.HHL_firstorder_Mean
+15,-0.047195667, D_wavelet.HHL_firstorder_Skewness
+16,0.067911339, D_wavelet.HHH_glcm_ClusterShade
+17,-0.080390181, D_wavelet.HHH_glcm_Imc1
