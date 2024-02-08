@@ -4,7 +4,7 @@ updating for title Incremental prognostic value of CCTA-based myocardial radiomi
 ## Final code and model weights clarify
 ### Ai features
 The code AI-features.py is used to generate Ai features based on resnet152 as following:
-```
+```python
 from torchvision import models
 model = models.resnet152(pretrained=True)
 ```
