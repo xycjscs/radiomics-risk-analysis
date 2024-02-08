@@ -8,7 +8,7 @@ one needs to get the cropped slice of lesions. Then converted it to .npy form. T
 This file contains all seletected features and its corresponding coefficients to calculate scros.
 
 ## nomo.cvs
-It contains time, features, radscors to do survical analysis with the nomogram0208.R..bin tool.
+It contains time, features, radscores to do survical analysis with the nomogram0208.R..bin tool.
 
 ## nomogram0208.R..bin
-It is used to perform survaival analysis, generate nomograms, and prpedict for new patiens. 
+It is used to perform survaival analysis, generate nomograms, and predict for new patiens. 
