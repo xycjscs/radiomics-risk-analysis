@@ -12,3 +12,7 @@ It contains time, features, radscores to do survical analysis with the nomogram0
 
 ## nomogram0208.R..bin
 It is used to perform survaival analysis, generate nomograms, and predict for new patiens. 
+
+## Note
+1, If you need any further imform, you can make an issue.
+2, data is not completed, for privacy concerns. 
